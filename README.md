@@ -1,4 +1,13 @@
-# ayushsahu--demo-
-This is My First Git Repository.
-<br>
-<i> Aurthor - Ayush Sahu </i>
+# C++  practice 
+This repository contains my C++ programs <BR>
+as part of my BCA learning journey.
+<br> 
+<b> Topics : </b>
+<Ul>
+<li> Basics </li>
+<li> Loops </li>
+<li> Functions  </li>
+<li> Oop concept  </li>
+</Ul>
+
+
